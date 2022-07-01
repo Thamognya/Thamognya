@@ -4,4 +4,4 @@ Hey Welcome to my profile here is a List of my github profiles and organizations
 - The [LowLevelML Github Profile](https://github.com/LowLevelML): Hosts my ML, LowLevel Kernel or a combination of both related projects
 - The [School (ironmegadipshittingmuffin) Github Profile](https://github.com/ironmegadipshittingmuffin): Hosts me, my friends and school's coding club's code.
 List of organizations I actively contribute to:
-- The [Gentoo Github Profile](https://github.com/gentoo/gentoo): Hosts the source code of ebuilds of the Gentoo overlay, portage and many more things related to gentoo.
+- The [Gentoo Github Profile](https://github.com/gentoo): Hosts the source code of ebuilds of the Gentoo overlay, portage and many more things related to gentoo.
