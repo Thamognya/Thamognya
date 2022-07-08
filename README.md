@@ -5,4 +5,4 @@ Hey Welcome to my profile here is a List of my github profiles and organizations
 - The <a href="https://github.com/ironmegadipshittingmuffin" target="_blank">School/ironmegadipshittingmuffin Github Profile</a>: Hosts me, my friends and school's coding club's code.
 
 List of organizations I actively contribute to:
-- The <a href="https://github.com/gentoo" target="_blank">Gentoo Github Profile</a>: Hosts the source code of ebuilds of the Gentoo overlay, portage and many more things related to gentoo.
+- The <a href="https://github.com/gentoo" target="_blank">Gentoo Github Profile</a>: Hosts the source code of ebuilds of the Gentoo overlay, portage, etc.
