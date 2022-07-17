@@ -6,6 +6,7 @@ Links
 \ CV
 </div>
 
+<div align="center">
 <details>
 <summary>Github Profiles and Organizations</summary>
 <br>
@@ -26,3 +27,4 @@ List of organizations I actively contribute regularly to:
  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell,XSLT&theme=dark" />
 </details>
+</div>
