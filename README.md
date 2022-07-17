@@ -1,3 +1,7 @@
+<details>
+<summary>Github Profiles and Organizations</summary>
+<br>
+
 Hey Welcome to my profile here is a List of my github profiles and organizations:
 - The <a href="https://github.com/Thamognya" target="_blank">Master/Thamognya Github Profile</a>: hosts all my personal projects.
 - The <a href="https://github.com/RustyUtils" target="_blank">RustyUtils Github Profile</a>: Hosts my rust project of converting all the coreutils to rust
@@ -6,3 +10,4 @@ Hey Welcome to my profile here is a List of my github profiles and organizations
 
 List of organizations I actively contribute to:
 - The <a href="https://github.com/gentoo" target="_blank">Gentoo Github Profile</a>: Hosts the source code of ebuilds of the Gentoo overlay, portage, etc.
+</details>
