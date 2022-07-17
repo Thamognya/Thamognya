@@ -6,6 +6,8 @@ Links
 \ CV
 </div>
 
+<hr>
+
 <div align="center">
 <details>
 <summary>Github Profiles and Organizations</summary>
