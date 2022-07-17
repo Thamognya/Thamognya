@@ -1,3 +1,11 @@
+<div align="center">
+Links
+\ Website 
+\ Gitlab
+\ Gitea
+\ CV
+</div>
+
 <details>
 <summary>Github Profiles and Organizations</summary>
 <br>
@@ -9,4 +17,12 @@
 
 List of organizations I actively contribute regularly to:
 - The <a href="https://github.com/gentoo" target="_blank">Gentoo Github Profile</a>: Hosts the source code of ebuilds of the Gentoo overlay, portage, etc.
+</details>
+
+<details>
+<summary>Github Stats</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Thamognya&count_private=true&show_icons=true&theme=dark" />
+ <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell,XSLT&theme=dark" />
 </details>
