@@ -8,7 +8,7 @@ Links
 
 <hr>
 
-<div align="center">
+<div>
 <details>
 <summary>Github Profiles and Organizations</summary>
 <br>
