@@ -3,7 +3,14 @@
 \ <a href="https://www.thamognya.com">Website</a>
 \ <a href="https://gitlab.com/Thamognya">Gitlab</a>
 \ <a href="https://git.thamognya.com">Gitea</a>
+\ <a href="">Codeforces</a>
+\ <a href="">LeetCode</a>
+\ <a href="">CodeChef</a>
+\ <a href="">HackerRank</a>
+\ <a href="">AtCoder</a>
 \ <a href="https://www.thamognya.com/cv.pdf">CV</a>
+
+
 </div>
 
 <hr>
