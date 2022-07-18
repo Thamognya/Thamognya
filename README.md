@@ -30,3 +30,12 @@ List of organizations I actively contribute regularly to:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamognya&langs_count=10&hide=shell,XSLT&theme=dark" />
 </details>
 </div>
+
+<details>
+<summary>TODO</summary>
+- Complete sorting visualizer
+- Complete www.thamognya.com
+- Make ptsd / depression django chat bot and predictor
+- Start path finding visualizer
+- Make cli version of homebrew and portage in one with rust
+</details>
