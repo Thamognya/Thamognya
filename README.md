@@ -1,9 +1,9 @@
 <div align="center">
-Links
-\ Website 
-\ Gitlab
-\ Gitea
-\ CV
+<a href="https://links.thamognya.com">Links</a>
+\ <a href="https://www.thamognya.com">Website</a>
+\ <a href="https://gitlab.com/Thamognya">Gitlab</a>
+\ <a href="https://git.thamognya.com">Gitea</a>
+\ <a href="https://www.thamognya.com/cv.pdf">CV</a>
 </div>
 
 <hr>
