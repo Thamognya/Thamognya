@@ -33,9 +33,11 @@ List of organizations I actively contribute regularly to:
 
 <details>
 <summary>TODO</summary>
+
 - Complete sorting visualizer
 - Complete www.thamognya.com
 - Make ptsd / depression django chat bot and predictor
 - Start path finding visualizer
 - Make cli version of homebrew and portage in one with rust
+
 </details>
